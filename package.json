@@ -1,6 +1,6 @@
 {
   "name": "inovar-boletos-pdf",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Gerar PDF de boletos para vários bancos",
   "main": "lib/index.js",
   "directories": {
